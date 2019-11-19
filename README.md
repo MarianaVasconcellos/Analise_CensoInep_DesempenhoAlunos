@@ -1,6 +1,6 @@
 # Análise Censo INEP Desempenho dos Alunos
 
-- Saber o desempenho dos alunos com atividades extracurriculares no ensino superior, censo dos últimos 5 anos.
+- Saber o desempenho dos alunos com atividades extracurriculares no ensino superior, censo dos últimos 3 anos.
 - Quais atividades extracurriculares mais exercidas pelos alunos.
 
 ```
